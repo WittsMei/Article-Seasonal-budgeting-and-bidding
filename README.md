@@ -59,3 +59,6 @@ If you’re using automated bidding, you may not need to use this type of formul
 
 ### Key takeaways
 As a digital marketer or e-commerce analyst, you will need to react to predicted shifts in performance during holiday periods and seasonal events. Tools like Performance Planner and Smart Bidding can take some of the guesswork out of projecting these shifts. It’s important to understand how to evaluate the data and most effectively adjust your budgets and bidding to help you achieve your business goals.
+
+
+
