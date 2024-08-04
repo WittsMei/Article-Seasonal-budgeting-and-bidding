@@ -50,10 +50,10 @@ In this calendar, the different colors indicate the revenue-per-click:
 
 So, for example, if your average revenue-per-click were $2, but on Black Friday, this typically increases to $5, then you would want to increase your bids on Black Friday. You could determine how much to increase your bids by using the following formula:
 
-**((Projected Revenue-per-click − Average Revenue-per-click) / Average Revenue-per-click) x 100 = 
-Bid Increase Percentage
+**((Projected Revenue-per-click − Average Revenue-per-click) / Average Revenue-per-click) x 100 =** 
+**Bid Increase Percentage**
 
-(($5-$2) / $2 ) x 100  = 150%**
+**(($5-$2) / $2 ) x 100  = 150%**
 
 If you’re using automated bidding, you may not need to use this type of formula across an entire holiday season. However, it’s still important for you to know when to expect increases and decreases in bids, which should lead to respective increases and decreases in ad spend and revenue on those days. With automated bidding, you may also utilize the “seasonality adjustments” feature in Google Ads, which often requires similar calculations for an expected change in conversion rates for a short period. 
 
